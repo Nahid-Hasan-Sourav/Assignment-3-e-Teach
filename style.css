@@ -1,0 +1,25 @@
+#item-one{
+    background-image:linear-gradient(rgba(20, 19, 19, 0.7) 50%,rgb(0 0 0 / 70%) 175%)  , url("/images/cover/slider-one.jpg");
+    
+    background-repeat: no-repeat;
+    background-position: center;   
+    background-size: 100% 100%;
+    height:80vh;   
+    
+}
+#item-two{
+    background-image:linear-gradient(rgba(20, 19, 19, 0.7) 50%,rgb(0 0 0 / 70%) 175%)  , url("/images/cover/slider-3.jpg");   
+    background-repeat: no-repeat;
+    background-position: center;   
+    background-size: 100% 100%;
+    height:80vh;   
+    
+}
+#item-three{
+    background-image:linear-gradient(rgba(20, 19, 19, 0.7) 50%,rgb(0 0 0 / 70%) 175%)  , url("/images/cover/cover-2.jpg");   
+    background-repeat: no-repeat;
+    background-position: center;   
+    background-size: 100% 100%;
+    height:80vh;   
+    
+}
